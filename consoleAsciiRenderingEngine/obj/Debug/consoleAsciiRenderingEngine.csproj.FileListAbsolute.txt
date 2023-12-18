@@ -1,0 +1,22 @@
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.exe.config
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.csproj.AssemblyReference.cache
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.csproj.CoreCompileInputs.cache
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.dll
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.xml
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Debug\ConsoleAsciiRenderingEngine.csproj.CopyComplete
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.exe.config
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\consoleAsciiRenderingEngine.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.dll
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\bin\Debug\WindowsInput.xml
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\obj\Debug\ConsoleAsciiRenderingEngine.csproj.AssemblyReference.cache
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\obj\Debug\ConsoleAsciiRenderingEngine.csproj.CoreCompileInputs.cache
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\obj\Debug\ConsoleAsciiRenderingEngine.csproj.CopyComplete
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\c# .net Ascii Game Engine\consoleAsciiRenderingEngine\obj\Debug\consoleAsciiRenderingEngine.pdb

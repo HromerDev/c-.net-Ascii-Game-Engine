@@ -1,0 +1,11 @@
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\consoleAsciiRenderingEngine.exe.config
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\consoleAsciiRenderingEngine.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\WindowsInput.dll
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\WindowsInput.pdb
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\bin\Release\WindowsInput.xml
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Release\ConsoleAsciiRenderingEngine.csproj.AssemblyReference.cache
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Release\ConsoleAsciiRenderingEngine.csproj.CoreCompileInputs.cache
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Release\ConsoleAsciiRenderingEngine.csproj.CopyComplete
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Release\consoleAsciiRenderingEngine.exe
+D:\Development\C#\consoleAsciiRenderingEngine\consoleAsciiRenderingEngine\obj\Release\consoleAsciiRenderingEngine.pdb
